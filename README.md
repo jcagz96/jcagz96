@@ -6,7 +6,7 @@ I'm working with **Java, Spring, Javascript, HTML, CSS** to develop and improve 
 But in my personal projects I prefer working with **React, Nodejs** and **Typescript**. I also have experience working in **Mobile development** area, I learned **React Native** and **Flutter** and since then I had develop some mobile apps
 
 
-### Some technologies I have worked it:
+### Some technologies I have worked with:
 
 <p> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
