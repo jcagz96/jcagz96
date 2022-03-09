@@ -6,11 +6,7 @@ I'm working with **Java, Spring, Javascript, HTML, CSS** to develop and improve 
 But in my personal projects I prefer working with **React, Nodejs** and **Typescript**. I also have experience working in **Mobile development** area, I learned **React Native** and **Flutter** and since then I had develop some mobile apps
 
 
-<p>
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px" />
-&nbsp;
-<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
-&nbsp;  
+<p> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
@@ -26,6 +22,12 @@ But in my personal projects I prefer working with **React, Nodejs** and **Typesc
 <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="35px"/> 
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" alt="nodejs" />  
+   &nbsp; 
+ <img src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" height="35px" alt="java" /> 
+ &nbsp; 
+<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px" />
+&nbsp;
+<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 </p>
 
 <!--
