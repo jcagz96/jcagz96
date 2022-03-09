@@ -3,7 +3,7 @@
 I'm **João Garcez**. Currently I'm a software developer at Accenture working in web development area.
 I'm working with **Java, Spring, Javascript, HTML, CSS** to develop and improve web applicattions at my job.
 
-But in my personal projects I prefer working with **React, Nodejs** and **Typescript**. I also have experience working in **Mobile development** area because I learned **React Native** and **Flutter** and since then I had develop some mobile apps
+But in my personal projects I prefer working with **React, Nodejs** and **Typescript**. I also have experience working in **Mobile development** area, I learned **React Native** and **Flutter** and since then I had develop some mobile apps
 
 
 <p>
