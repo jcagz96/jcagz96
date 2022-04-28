@@ -9,10 +9,12 @@ But in my personal projects I prefer working with **React, Nodejs** and **Typesc
 ### Some technologies I have worked with:
 
 <p> 
+  <img src="https://www.amcharts.com/wp-content/uploads/2016/08/react.png" height="35px"/>
+&nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
