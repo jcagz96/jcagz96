@@ -13,8 +13,6 @@ But in my personal projects I prefer working with **React, Nodejs** and **Typesc
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
-&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
@@ -31,8 +29,6 @@ But in my personal projects I prefer working with **React, Nodejs** and **Typesc
  <img src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" height="35px" alt="java" /> 
  &nbsp; 
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px" />
-&nbsp;
-<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 </p>
 
 <!--
