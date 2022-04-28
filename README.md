@@ -27,8 +27,6 @@ But in my personal projects I prefer working with **React, Nodejs** and **Typesc
    <img src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png/revision/latest?cb=20210426191500" height="35px" alt="flutter" />  
  &nbsp;
  <img src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" height="35px" alt="java" /> 
- &nbsp; 
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px" />
 </p>
 
 <!--
