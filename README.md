@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **João Garcez**. Currently I'm a software developer at Volkswagen Groups Digital Solutions working in web development area.
+I'm **João Garcez**. Currently I'm a software developer at Volkswagen Group Digital Solutions working in web development area.
 I'm working with **Java, Spring, React, Javascript, HTML, CSS, SQL** to develop and improve web applicattions at my job.
 
 I also have experience working in **Mobile development** area, I learned **React Native** and **Flutter** and since then I had develop some mobile apps
